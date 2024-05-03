@@ -13,7 +13,7 @@ Modernisasi terjadi secara luas di berbagai belahan dunia. Pola kehidupan manusi
 
 Dengan fenomena demikian, aplikasi GreenEye hadir untuk menjadi solusi alternatif yang praktis untuk mengatasi masalah tersebut. Arus disrupsi teknologi machine learning membuka lebar jalan untuk mencapai tujuan tersebut. GreenEye memanfaatkan fitur yang dimiliki hampir seluruh smartphone saat ini, kamera, untuk menjadi masukan terhadap sistem. Masukan gambar akan diproses sedemikian rupa sehingga aplikasi mampu menampilkan informasi mengenai tanaman yang ada pada gambar.
 
-Android menjadi platform yang dipilih dalam tahap awal pengembangan dengan mempertimbangkan kompabilitasnya. Didukung dengan koleksi data yang beragam dan model machine learning yang di optimalisasi, GreenEye diharapkan dapat memenuhi ekspektasi pengguna dalam melakukan identifikasi dan menampilkan informasi mengenai berbagai jenis tanaman dengan cepat dan tepat. 
+Android menjadi platform yang dipilih dalam tahap awal pengembangan dengan mempertimbangkan kompabilitasnya. Didukung dengan koleksi data yang beragam dan model machine learning yang dioptimalisasi, GreenEye diharapkan dapat memenuhi ekspektasi pengguna dalam melakukan identifikasi dan menampilkan informasi mengenai berbagai jenis tanaman dengan cepat dan tepat. 
 
 ## GreenEye Proposal
 
