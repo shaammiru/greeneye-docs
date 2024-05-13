@@ -16,4 +16,9 @@ Dengan fenomena demikian, aplikasi GreenEye hadir untuk menjadi solusi alternati
 Android menjadi platform yang dipilih dalam tahap awal pengembangan dengan mempertimbangkan kompabilitasnya. Didukung dengan koleksi data yang beragam dan model machine learning yang dioptimalisasi, GreenEye diharapkan dapat memenuhi ekspektasi pengguna dalam melakukan identifikasi dan menampilkan informasi mengenai berbagai jenis tanaman dengan cepat dan tepat. 
 
 ## GreenEye Proposal
+
 [GreenEye Proposal Document](https://www.canva.com/design/DAGELgkmIsA/dSwF99Y6Rcj8poWU4lbJIQ/view?utm_content=DAGELgkmIsA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+## Campaign Video
+
+[Instagram](https://www.instagram.com/p/C63mQgVJMbU/)
