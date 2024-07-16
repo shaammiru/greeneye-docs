@@ -47,7 +47,7 @@ Android menjadi platform yang dipilih dalam tahap awal pengembangan dengan mempe
 
 ## Load Balancing Test Result
 
-![Load Balancing Test](/load-balancing.mkv)
+![Load Balancing Test](/load-balancing.gif)
 
 ## Paper
 
